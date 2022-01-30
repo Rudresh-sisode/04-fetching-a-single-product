@@ -1,0 +1,5 @@
+while working on ubuntu - linux distribution system if you see any error
+that saying that client authentication is not allow or please upgrade your mysql client
+than 
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
+inside your mysql on terminal run above command and you can go
